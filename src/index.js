@@ -1,9 +1,9 @@
 import React from "react";
 import ReactDOM from "react-dom";
-
+import Heading from "./src/Heading";
 ReactDOM.render(
   <div>
-   
+   <Heading />
     <ul>
       <li>Bacon</li>
       <li>Jamon</li>
