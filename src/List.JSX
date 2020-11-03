@@ -2,7 +2,7 @@ import React from "react";
 
 
 function List() {
-  return <h1>My Favourite Foods</h1>;
+  return <h2>My Favourite Foods</h2>;
 }
 
 export default List;

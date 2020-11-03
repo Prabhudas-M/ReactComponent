@@ -1,7 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Heading from "./Heading";
 import List from "./List";
+import Heading from "./Heading";
+
 
 ReactDOM.render(
   <div>
