@@ -6,7 +6,6 @@ ReactDOM.render(
   <div>
     <Heading />
     <List />
-<List />
   </div>,
   document.getElementById("root")
 );

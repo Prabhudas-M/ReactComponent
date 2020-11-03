@@ -1,7 +1,13 @@
 import React from "react";
 
 function List() {
-  return <h2>My Favourite Foods</h2>;
+  return (
+    <ul>
+      <li>Becon</li>
+      <li>rice</li>
+      <li>Noodles</li>
+    </ul>
+  );
 }
 
 export default List;
