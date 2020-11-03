@@ -3,7 +3,6 @@ import ReactDOM from "react-dom";
 import List from "./List";
 import Heading from "./Heading";
 
-
 ReactDOM.render(
   <div>
     <Heading />
